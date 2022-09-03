@@ -1,0 +1,56 @@
+body{
+    font-family:"Playfair Display"; 
+}
+.site-nav .link{
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+position: static;
+}
+.title{
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+}
+.title2{
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+}
+.text{
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+}
+.title3{
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+}
+.title4{
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+}
+.text2{
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+}
+.button{
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+}
